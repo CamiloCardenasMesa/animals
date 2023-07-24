@@ -1,5 +1,5 @@
-import './AnimalShow.css'
-import { useState } from 'react';
+import React, { useState } from 'react'; 
+import './AnimalShow.css';
 import bird from './svg/bird.svg';
 import cat  from './svg/cat.svg';
 import cow from './svg/cow.svg';
